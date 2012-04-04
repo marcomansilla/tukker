@@ -1,0 +1,5 @@
+bases/**
+errors/**
+sessions/**
+*˜
+*.py?
